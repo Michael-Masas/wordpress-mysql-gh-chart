@@ -1,9 +1,11 @@
 # wordpress-mysql-gh-chart
-Helm Chart - GitHub Page from a custom chart 
+Helm Chart - Github Pages is a Repo for this chart - Link Below :
+
 To add and install the repo and chart:
-helm repo add wpmHelm https://michael-masas.github.io/wordpress-mysql-gh-chart/
-helm repo update
-helm install wordpress-mysql wpmHelm/wpm
+
+- helm repo add wpmHelm https://michael-masas.github.io/wordpress-mysql-gh-chart/
+- helm repo update
+- helm install wordpress-mysql wpmHelm/wpm
 
 if everything is in order you should see :
 NAME: wordpress-mysql
